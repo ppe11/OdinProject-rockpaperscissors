@@ -24,3 +24,6 @@ This project implements a basic Rock Paper Scissors game where a user plays agai
 4. The winner of each round is displayed along with the score.
 5. First to reach 5 points wins!
 6. Click Reset Game to restart.
+
+## 📜 Acknowledgments
+This project is part of The Odin Project curriculum.
